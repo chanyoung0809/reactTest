@@ -1,0 +1,5 @@
+ul, ol, li {list-style: none;}
+
+#header {background-color: #FA0; display: flex; justify-content: center;}
+#header .center {width:1280px; background-color: #FCC; display: flex; justify-content: space-between; align-items: center;}
+#header .center .gnb {display: flex;}

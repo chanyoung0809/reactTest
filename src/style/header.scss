@@ -1,0 +1,27 @@
+#header {
+    display: flex;
+    justify-content: center;
+    background-color: #CFC;
+    .center {
+        width:1280px;
+        background-color: #FFF;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        .gnb {
+            display: flex;
+            list-style: none;
+        }
+    }
+}
+#footer {
+    display: flex;
+    justify-content: center;
+    background-color: #8F8;
+    .center {
+        text-align: center;
+        width:1280px;
+        margin: 0 auto;
+        color:#FFF;
+    }
+}
